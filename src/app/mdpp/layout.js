@@ -4,7 +4,7 @@ const layout = ({children}) => {
     return (
         <html>
             <body className='bg-red-500'>
-            {children}
+                {children}
             </body>
         </html>
     );
