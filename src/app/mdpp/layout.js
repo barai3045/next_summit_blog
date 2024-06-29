@@ -3,7 +3,7 @@ import React from 'react';
 const layout = ({children}) => {
     return (
         <html>
-            <body className='bg-red-500'>
+            <body >
                 {children}
             </body>
         </html>
